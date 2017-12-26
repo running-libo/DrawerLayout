@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Dec 26 22:12:42 CST 2017
+#Tue Dec 26 23:48:28 CST 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/Users/apple/Desktop/DrawerLayout/app/build/intermediates/res/resources-debug.ap_/res/layout/abc_screen_simple.xml
