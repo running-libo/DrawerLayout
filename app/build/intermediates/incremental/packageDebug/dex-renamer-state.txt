@@ -1,4 +1,7 @@
-#Tue Dec 26 19:33:30 CST 2017
-base.0=/Users/goobird-iOS004/Desktop/DrawerLayout/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Tue Dec 26 22:12:42 CST 2017
+base.0=/Users/apple/Desktop/DrawerLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c2fd7abd9a971d3b8fbf22a1844105f53d671393
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=/Users/goobird-iOS004/Desktop/DrawerLayout/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.1=/Users/apple/Desktop/DrawerLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bcea6a4249aed19c9b1624e6fe23d96480c43f92/classes.dex
+base.1=/Users/apple/Desktop/DrawerLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bcea6a4249aed19c9b1624e6fe23d96480c43f92
+file.0=/Users/apple/Desktop/DrawerLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c2fd7abd9a971d3b8fbf22a1844105f53d671393/classes.dex
