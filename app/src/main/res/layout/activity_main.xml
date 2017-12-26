@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout android:id="@+id/drawerlayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            xmlns:android="http://schemas.android.com/apk/res/android">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="16dp"
+                android:background="@mipmap/ic_mobike"/>
+        </android.support.v7.widget.Toolbar>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/location"/>
+    </LinearLayout>
+
+    <android.support.design.widget.NavigationView
+        android:id="@+id/navigationview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        app:headerLayout="@layout/navigation_header"
+        app:menu="@menu/navigation_menu"/>
+
+</android.support.v4.widget.DrawerLayout>

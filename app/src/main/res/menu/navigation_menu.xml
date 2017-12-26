@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/one"
+          android:icon="@mipmap/my_favorites"
+          android:title="我的钱包"/>
+
+    <item android:id="@+id/two"
+        android:icon="@mipmap/my_competition"
+        android:title="我的卡券"/>
+
+    <item android:id="@+id/three"
+        android:icon="@mipmap/my_honor"
+        android:title="我的行程"/>
+
+    <item android:id="@+id/four"
+        android:icon="@mipmap/my_offline_cache"
+        android:title="邀请好友"/>
+
+    <item android:id="@+id/five"
+        android:icon="@mipmap/my_help_and_feedback"
+        android:title="我的贴纸"/>
+
+    <item android:id="@+id/six"
+        android:icon="@mipmap/my_set_up"
+        android:title="设置"/>
+</menu>
